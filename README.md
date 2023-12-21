@@ -7,4 +7,3 @@ such as (passive problem, proxy, apipa, Getting IP address from another dhcp ser
 ![Image Description 2](/Advanced network connection test/conect.PNG)
 ![Image Description 1](/Advanced network connection test/Capture.PNG)
 
-
