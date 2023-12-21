@@ -3,7 +3,6 @@ If you are not connected, it determines the reason for your disconnection and ou
 such as (passive problem, proxy, apipa, Getting IP address from another dhcp server, trust relationship with the domain has failed)
 
 
-![Image Description 3](/Advanced network connection test/start.PNG)
-![Image Description 2](/Advanced network connection test/conect.PNG)
-![Image Description 1](/Advanced network connection test/Capture.PNG)
-
+![Image Description 1](Advanced%20network%20connection%20test/Capture.PNG)
+![Image Description 2](Advanced%20network%20connection%20test/conect.PNG)
+![Image Description 3](Advanced%20network%20connection%20test/start.PNG)
